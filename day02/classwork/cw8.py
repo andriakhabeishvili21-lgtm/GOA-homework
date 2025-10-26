@@ -2,5 +2,7 @@
 # lesson = "math"
 # print("lesson")
 
-lesson= "math"
+# არ სჭირდება lesson-ს ბრჭყალები 
+
+lesson="math"
 print("lesson")
