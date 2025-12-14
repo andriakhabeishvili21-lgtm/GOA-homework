@@ -11,4 +11,4 @@ city=input(" where do you live ")
 
 height= input (" enter your height ")
 
-print(" my name is " + name + surname + " im " + age + " i live in " + city + " i am " + height)
+print(" my name is " + name + " " + surname + " im " + age + " i live in " + city + " i am " + height)

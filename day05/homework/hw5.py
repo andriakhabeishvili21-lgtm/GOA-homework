@@ -3,4 +3,4 @@
 age=int(input(" enter your age : "))
 
 sum=age+10
-print("in ten years you will be " + str(sum))
+print("in ten years you will be " + str(sum) + "years old")

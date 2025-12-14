@@ -1,6 +1,6 @@
 # 4)რა შედეგს მივიღებთ ტერმინალში?(მაგალითები ქვემოთ არის)
-# True or False                       true
-# false or false                      false
-# true and true                       true
-# true and false                      false
-# flase or true                       true
+# True or False                       True
+# False or False                      False
+# True and True                       True
+# True and False                      False
+# Flase or True                       True

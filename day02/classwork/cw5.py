@@ -1,2 +1,2 @@
 # 5) კონკატინაციის დახმარებით დაპრინტეთ თქვენი სახელი და გვარი
-print("andria" + "khabeishvili")
+print("andria " + "khabeishvili")

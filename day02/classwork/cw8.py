@@ -5,4 +5,4 @@
 # არ სჭირდება lesson-ს ბრჭყალები 
 
 lesson="math"
-print("lesson")
+print(lesson)

@@ -6,5 +6,5 @@
 # დაპრინტეთ
 # "მე დავიბადე 2001 წელში და ვარ 24 წლის"
 
-user_year=int(input( enter your bith year : ))
-print("i was born in " + str( user_year ) + " and i am " + (2025-user_year) )
+user_year=int(input(" enter your birth year : "))
+print("i was born in " + str( user_year ) + " and i am " + str(2025-user_year) )

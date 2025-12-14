@@ -4,4 +4,4 @@ random_number=int(input(" enter a random number : "))
 random_number2=int(input(" enter another random number : " ))
 random_number3=int(input(" enter a random number again : " ))
 
-print((random_number2 - random_number3) * random_number )
+print(random_number - random_number2 * random_number3)

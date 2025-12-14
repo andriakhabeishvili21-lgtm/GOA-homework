@@ -1,8 +1,8 @@
 # 2) რას გამოიტანენ ეს მაგალითები:
-#   print( 5 > 3 ) true
-#   print( -10 == 10) false
-#    print( 7 < 2) false
-#    print( 4 != 4)  false
-#   print( -8 >= 8) false
-#    print( 9 <= 10-3 + 2) true 
-#    print( 6 * 2 > 11) true
+#   print( 5 > 3 ) True
+#   print( -10 == 10) False
+#    print( 7 < 2) False
+#    print( 4 != 4)  False
+#   print( -8 >= 8) False
+#    print( 9 <= 10-3 + 2) True 
+#    print( 6 * 2 > 11) True
