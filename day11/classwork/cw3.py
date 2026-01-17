@@ -1,6 +1,6 @@
 # 3)მომხარებელს შემოატანინე სახელი, თუ ეს სახელი უდრის aleksandre ს, დაპრინტეთ "mentor" სხვა შემთხვევაში ამ ასოში თითოეული ასო ცალ ცალკე გამოიტანეთ ფორ ლუპებით
 
-name="aleksandre"
+name=input("enter your name : ")
 
 if name=="aleksandre":
     print("mentor")
