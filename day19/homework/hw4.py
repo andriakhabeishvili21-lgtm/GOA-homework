@@ -3,6 +3,6 @@
 email=input("enter ut email : ")
 u=email.find("@")
 if u >= 1:
-    print("true".upper)
+    print("true".upper())
 else:
     print("error")

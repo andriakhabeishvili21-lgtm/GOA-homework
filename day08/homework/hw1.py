@@ -1,2 +1,2 @@
 # 1)ახსენით რა არის Control Flow
-# control flow არის კოდის სახეობა 
+# control flow არის ინსტრუქცია პროგრამისთვის

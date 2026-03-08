@@ -4,7 +4,7 @@ number=int(input( "enter a number:  " ))
 
 if number > 15:
     for i in range (1, number):
-            print(i)
+        print(i)
                  
           
 else:

@@ -4,9 +4,5 @@
 # selection როცა კოდში არის რამდენიმე არჩევანი
 # iteration კოდების განმეორება 
 
-name=3
-num=5
-1num=7
-?nu=0
-print(num)
+
 

@@ -1,3 +1,3 @@
 # 6)რას გამოიტასნ ეკრანზე ეს მაგალითი?
- print(15>4 or 15 <9 and 12 > 3 or 0<19)
+print(15>4 or 15 <9 and 12 > 3 or 0<19)
 # 15>4 or False or 0<19 = True or 0<19 = True
