@@ -1,0 +1,45 @@
+<!-- 5) შექმენით form ა 6 შესაყვანი ველით და გენდერის ასარჩევით, გამოიყენეთ ყველა ატრიბუტი -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <form>
+            <h1>registration form</h1>
+            <br><br>
+            <label for="name">name: </label><br>
+            <input id="name" type="text" required minlength="1" maxlength="20" name="name" ><br>
+
+            <label for="userSurname">surname: </label><br>
+            <input type="text" id="userSurname" minlength="1" maxlength="50"   name="surname"><br>
+
+            <label for="userEmail">email: </label><br>
+            <input type="email" id="userEmail" name="email" required minlength="1" maxlength="60"><br>
+
+            <label for="userPass">password: </label><br>
+            <input type="password" id="userPass" name="password" minlength="1" maxlength="20" required><br>
+
+             <label for="userSchool">school: </label><br>
+            <input type="text" id="userSchool" name="school" minlength="1" maxlength="90"><br>
+
+             <label for="userGrade">grade: </label><br>
+            <input type="text" id="userGrade" name="grade" minlength="1" maxlength="2" required><br>
+
+            <p>tell us your gender</p>
+
+            <label for="male">male</label>
+            <input type="radio" id="male" name="male"><br>
+
+            <label for="female">female</label>
+            <input type="radio" id="female" name="female">
+            <br>
+            <button>submit</button>
+        </form>
+    </center>
+</body>
+</html>
