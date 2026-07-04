@@ -1,0 +1,8 @@
+/* 4) გააკეთეთ კვადრატი ზომით 240px × 240px, მუქი მწვანე უკანა ფონი და 35px მომრგვალება. */
+
+div{
+    height: 240px;
+    width: 240px;
+    background-color: forestgreen;
+    border-radius: 35px;
+}

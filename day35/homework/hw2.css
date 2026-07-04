@@ -1,0 +1,8 @@
+ /* გააკეთეთ კვადრატი ზომით 180px × 180px, ვარდისფერი უკანა ფონი და 40px მომრგვალება. */
+
+ div{
+    height: 180px;
+    width: 180px;
+    background-color: pink;
+    border-radius: 40px;
+}

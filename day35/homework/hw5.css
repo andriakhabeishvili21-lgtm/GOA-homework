@@ -1,0 +1,10 @@
+/* 5) გააკეთეთ მართკუთხედი ზომით 260px × 200px, ყავისფერი უკანა ფონი და 18px მომრგვალება. */
+
+
+
+div{
+    height: 260px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 18px;
+}
