@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuyu+Short&display=swap');
+/* 3) შექმენით ერთი h1 ელემენტი შემდეგ google fonts ვებსაიტზე მოიძიეთ Yuyu Short ფონტი და ფააყენეთ მაგ სათაურზე */
+
+.h13{
+    font-family: Yuyu short;
+}
