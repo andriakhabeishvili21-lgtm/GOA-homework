@@ -1,0 +1,82 @@
+/* 1) შექმენით `h1` ელემენტი და ტექსტი მთლიანად გადაიყვანეთ დიდ ასოებში (`uppercase`).
+
+2) შექმენით `p` ელემენტი და ტექსტი მთლიანად გადაიყვანეთ პატარა ასოებში (`lowercase`).
+
+3) შექმენით `h2` ელემენტი და ტექსტის თითოეული სიტყვის პირველი ასო გადააკეთეთ დიდ ასოდ (`capitalize`).
+
+4) შექმენით `span` ელემენტი, ჩაწერეთ ტექსტი პატარა ასოებით და `text-transform`-ის გამოყენებით გადააკეთეთ დიდ ასოებად.
+
+5) შექმენით `a` ელემენტი, ჩაწერეთ ტექსტი დიდი ასოებით და `text-transform`-ის გამოყენებით გადააკეთეთ პატარა ასოებად.
+
+6) შექმენით სამი `p` ელემენტი, პირველს გაუწერეთ `uppercase`, მეორეს `lowercase`, ხოლო მესამეს `capitalize`.
+
+7) შექმენით `h3` ელემენტი, ჩაწერეთ ტექსტი არეული დიდი და პატარა ასოებით და `text-transform`-ის გამოყენებით გადააკეთეთ `capitalize`-ზე.
+
+8) შექმენით `button` ელემენტი და მისი ტექსტი `uppercase`-ად გადააკეთეთ.
+
+9) შექმენით `li` ელემენტები (`ul` სიაში) და ყველა ელემენტის ტექსტს გაუწერეთ `capitalize`.
+
+10) შექმენით `h1`, `h2`, `h3` ელემენტები:
+    - `h1` → `uppercase`
+    - `h2` → `lowercase`
+    - `h3` → `capitalize` */
+/* 1) */
+#h11{
+    text-transform: uppercase;
+}
+/* 2) */
+#p2{
+    text-transform: lowercase;
+}
+/* 3) */
+#h23{
+    text-transform: capitalize;
+}
+/* 4) */
+#span4{
+    text-transform: uppercase;
+}
+/* 5) */
+#a5{
+    text-transform: lowercase;
+}
+/* 6) */
+#p16{
+    text-transform: uppercase;
+}
+#p26{
+    text-transform: lowercase;
+}
+#p36{
+    text-transform: capitalize;
+}
+/* 7) */
+#h37{
+    text-transform: capitalize;
+}
+/* 8) */
+#button8{
+    text-transform: uppercase;
+}
+/* 9) */
+
+#li19{
+    text-transform: capitalize;
+}
+#li29{
+    text-transform: capitalize;
+}
+#li39{
+    text-transform: capitalize;
+}
+/* 10) */
+#h110{
+    text-transform: uppercase;
+}
+#h210{
+    text-transform: lowercase;
+}
+#h310{
+    text-transform: capitalize;   
+}
+

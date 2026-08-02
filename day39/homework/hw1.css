@@ -1,0 +1,26 @@
+/* 1) შექმენით h1 ელემენტი და გაუწერეთ ქვედა ხაზი (underline), solid სტილით და navy ფერით.
+2) შექმენით h2 ელემენტი და გაუწერეთ შუა ხაზი (line-through), dashed სტილით და crimson ფერით.
+3) შექმენით h3 ელემენტი და გაუწერეთ ზედა ხაზი (overline), wavy სტილით და darkgreen ფერით.
+4) შექმენით p ელემენტი და გაუწერეთ ქვედა ხაზი (underline), dotted სტილით, teal ფერით და 3px სისქით.
+5) შექმენით a ელემენტი და გაუწერეთ ქვედა ხაზი (underline), solid სტილით, coral ფერით და 5px სისქით. */
+
+/* 1) */
+#h1{
+    text-decoration: underline solid navy;
+}
+/* 2) */
+#h2{
+    text-decoration: line-through dashed crimson;
+}
+/* 3) */
+#h3{
+    text-decoration: overline wavy darkgreen;
+}
+/* 4) */
+#p4{
+    text-decoration: underline dotted teal;
+}
+/* 5) */
+#a5{
+    text-decoration: underline solid coral 5px;
+}
