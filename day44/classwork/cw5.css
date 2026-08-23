@@ -1,0 +1,31 @@
+/* 5) შექმენი 700px × 600px ზომის parent ელემენტი და მასში მოათავსე 6 child ელემენტი. ელემენტებს გარშემო ჰქონდეთ თანაბარი დაშორება და მეორე ღერძის ბოლოში განლაგდნენ. */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#parent{
+    width: 600px;
+    height: 700px;
+    border: 2px solid black;
+    background-color: blue;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    display: flex;
+}
+
+.child{
+    width: 50px;
+    height: 50px;
+    background-color:red;
+    border: 2px solid black;
+}

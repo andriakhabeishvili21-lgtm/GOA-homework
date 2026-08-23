@@ -1,0 +1,59 @@
+ /* 1) 
+შექმენი <ul> სია 5 ხილით და list-style-type-ით სიმბოლოდ გამოიყენე square.
+
+2)
+შექმენი <ul> სია 5 ცხოველით და გამოიყენე circle.
+
+3)
+შექმენი <ol> სია 5 საყვარელი ფილმით და გამოიყენე upper-roman.
+
+4)
+შექმენი <ol> სია 5 პროგრამირების ენით და გამოიყენე lower-alpha.
+
+5)
+შექმენი <ol> სია 5 ქალაქით და გამოიყენე decimal-leading-zero.
+
+6)
+შექმენი <ul> სია 5 სპორტის სახეობით და გამოიყენე disc.
+
+7)
+შექმენი <ol> სია 5 სასკოლო საგნით და გამოიყენე georgian.
+
+8)
+შექმენი <ol> სია 5 ტექნოლოგიით და გამოიყენე lower-greek.
+
+9)
+შექმენი ერთი <ul> და ერთი <ol>:
+<ul>-ში ჩაწერე 5 პროგრამირების ტექნოლოგია და გამოიყენე square.
+<ol>-ში ჩაწერე 5 პროგრამირების ენა და გამოიყენე upper-alpha. */
+#ul1{
+    list-style-type: square;
+}
+#ul2{
+    list-style-type: circle;
+}
+#ol3{
+    list-style-type: upper-roman;
+}
+#ol4{
+    list-style-type: lower-alpha;
+}
+#ol5{
+    list-style-type: decimal-leading-zero;
+}
+#ul6{
+    list-style-type: disc;
+}
+#ol7{
+    list-style-type: georgian;
+}
+#ol8{
+    list-style-type: lower-greek;
+}
+#ul9{
+    list-style-type: square;
+}
+#ol9{
+    list-style-type: upper-alpha;
+}
+

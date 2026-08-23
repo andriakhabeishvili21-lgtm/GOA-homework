@@ -1,0 +1,29 @@
+/* 2) შექმენი 600px × 600px ზომის parent ელემენტი და მასში მოათავსე 4 child ელემენტი. შვილობილ ელემენტებს შორის გააკეთე მაქსიმალურად დიდი დაშორება. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#parent1 {
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    border: 3px solid black;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+.child {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border: 2px solid black;
+}
