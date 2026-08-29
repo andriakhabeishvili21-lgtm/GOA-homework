@@ -1,0 +1,28 @@
+/* 4. შექმენი სამი button და გამოიყენე margin-left, რომ ისინი ერთმანეთისგან ჰორიზონტალურად დაშორდნენ. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#button{
+    border: 3px solid black;
+    background-color: red;
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+}
+#button1{
+        border: 3px solid black;
+    background-color: red;
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+}
+#button2{
+        border: 3px solid black;
+    background-color: red;
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+}

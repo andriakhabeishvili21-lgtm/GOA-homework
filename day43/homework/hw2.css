@@ -1,0 +1,10 @@
+/* 2. შექმენი button და გამოიყენე padding ისე, რომ ღილაკი ტექსტის გარშემო უფრო დიდი გახდეს. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#button{
+    padding: -20px;
+    background-color: red;
+}

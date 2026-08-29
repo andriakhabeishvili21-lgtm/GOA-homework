@@ -1,0 +1,11 @@
+/* 3. შექმენი div და გამოიყენე margin-top, რომ ის გვერდის ზემოდან 50px-ით დაშორდეს. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#div{
+    margin-top: 50px;
+    background-color: red;
+    border: 3px solid black;
+}

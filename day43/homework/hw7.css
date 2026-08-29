@@ -1,0 +1,22 @@
+/* 2. შექმენი h1 და p. გამოიყენე margin ისე, რომ h1-სა და p-ს შორის 20px დაშორება იყოს. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#h1{
+    margin: 13px;
+    background-color: red;
+    border: 3px solid black;
+    height: 50px;
+    width: 50px;
+    font-size: small;
+}
+
+p{
+      margin: 13px;
+    background-color: blue;
+    border: 3px solid black;
+    height: 50px;
+    width: 50px;
+}

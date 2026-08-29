@@ -1,0 +1,14 @@
+/* 3. შექმენი div, რომელშიც იქნება h2 და p. გამოიყენე padding ისე, რომ ტექსტი div-ის კიდეებს არ მიეკროს. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#div{
+    padding: 20px;
+    background-color: blue;
+}
+.content{
+    background-color: red;
+}

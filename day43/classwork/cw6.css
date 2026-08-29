@@ -1,0 +1,6 @@
+/* 4. შექმენი div, რომელსაც ექნება margin: 20px; */
+
+#div4{
+    margin:20px;
+    background-color: red;
+}

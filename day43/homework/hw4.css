@@ -1,0 +1,21 @@
+/* 4. შექმენი 3 სხვადასხვა div და თითოეულს მიეცი განსხვავებული padding. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#div{
+    padding: 30px;
+    background-color: red;
+    border: 3px solid black;
+}
+#div1{
+    padding: 25px;
+    background-color: red;
+    border: 3px solid black;
+}
+#div2{
+    padding: 20px;
+    background-color: red;
+    border: 3px solid black;
+}

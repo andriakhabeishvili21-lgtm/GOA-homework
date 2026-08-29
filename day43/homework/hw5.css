@@ -1,0 +1,13 @@
+/* 5. შექმენი პატარა card, რომელსაც ექნება background-color, border და 30px padding. შიგნით ჩასვი სათაური და ტექსტი. */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#div{
+    height: 500px;
+    width: 250x;
+    background-color: red;
+    padding: 30px;
+    border: 3px solid black;
+}
