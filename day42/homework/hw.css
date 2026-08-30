@@ -1,0 +1,63 @@
+/* 11)
+
+შექმენი <ul> სია 6 საყვარელი თამაშით და გამოიყენე square.
+
+12)
+
+შექმენი <ol> სია 6 ვებ-ბრაუზერით და გამოიყენე lower-alpha.
+
+13)
+
+შექმენი <ol> სია 5 შენი დღის აქტივობით და გამოიყენე decimal-leading-zero.
+
+14)
+
+შექმენი <ul> სია 5 პროგრამირების ხელსაწყოთი და გამოიყენე circle.
+
+15)
+
+შექმენი <ol> სია 7 წიგნით და გამოიყენე lower-roman.
+
+16)
+
+შექმენი <ol> სია 5 ქვეყანით და გამოიყენე upper-latin.
+
+17)
+
+შექმენი <ul> სია 6 საკვები პროდუქტით და გამოიყენე disc.
+
+18)
+
+შექმენი ორი <ol> სია:
+
+პირველი — 5 სპორტით, upper-roman
+მეორე — 5 თამაშით, lower-alpha */
+
+/* 11) */
+#ul1{
+    list-style-type: square;
+}
+#ol1{
+    list-style-type: lower-alpha;
+}
+#ol2{
+    list-style-type: decimal-leading-zero;
+}
+#ul2{
+    list-style-type: circle;
+}
+#ol3{
+    list-style-type: lower-roman;
+}
+#ol4{
+    list-style-type: upper-latin;
+}
+#ul3{
+    list-style-type: disc;
+}
+#ol5{
+    list-style-type: upper-roman;
+}
+#ol6{
+    list-style-type: lower-alpha;
+}
