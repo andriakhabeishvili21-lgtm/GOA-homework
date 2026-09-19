@@ -1,0 +1,29 @@
+/* 5. შექმენი 600px × 600px ზომის parent ელემენტი და მასში მოათავსე 9 child ელემენტი. ელემენტები განალაგე ვერტიკალურად, საჭიროების შემთხვევაში გადაიტანე შემდეგ სვეტში და მეორე ღერძის მიხედვით ცენტრში მოათავსე. */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#parent{
+    height: 600px;
+    width: 600px;
+    border: 3px solid black;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.child{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border: 2px solid black;
+}
