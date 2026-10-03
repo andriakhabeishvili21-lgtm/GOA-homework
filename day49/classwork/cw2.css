@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#big_div{
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+#medium_div{
+    background-color: forestgreen;
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+#small_div{
+    background-color: yellow;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100px;
+    height: 100px;
+
+}
